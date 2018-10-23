@@ -1,5 +1,5 @@
 # opdracht-collage-RubenLowet
-####### BeCode
+### BeCode 
 __BeCode__ is een opleiding waar je leert coderen.
 
 Maar dit allen op een leuke en leerzame manier.
