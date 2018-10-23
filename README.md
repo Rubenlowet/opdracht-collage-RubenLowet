@@ -1,4 +1,5 @@
 # opdracht-collage-RubenLowet
+<<<<<<< HEAD
 ### BeCode 
 __BeCode__ is een opleiding waar je leert coderen.
 
@@ -9,3 +10,6 @@ Samen streven we naar perfectie maar dit alleen door teamwork.
 
 
 
+=======
+*AANPASSING*
+>>>>>>> master
